@@ -1,0 +1,1 @@
+This folder in the alx-higher level languages repository entails some of the basiscs pf python shared as python scripts
