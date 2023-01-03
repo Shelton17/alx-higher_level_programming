@@ -1,0 +1,1 @@
+This repository with the README frequently updated to match it's content will summarize all that is covered in the ALX/Holberton curriculum regarding python programming as a high level language
